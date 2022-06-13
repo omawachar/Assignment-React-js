@@ -1,0 +1,79 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "React Js",
+      "duration": 3,
+      "description": "Bla Bla Bla"
+    },
+    {
+      "id": 2,
+      "name": "Php Laravel",
+      "duration": 1,
+      "description": "Bla Bla Bla"
+    },
+    {
+      "id": 3,
+      "name": "Kotlin",
+      "duration": 6,
+      "description": "Bla Bla Bla"
+    },
+    {
+      "id": 4,
+      "name": "AWS",
+      "duration": 3,
+      "description": "Bla Bla Bla"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": 1,
+      "course_id": "1",
+      "name": "Om Awachar",
+      "email": "om@gail.com",
+      "experience": "3"
+    },
+    {
+      "id": 2,
+      "course_id": "3",
+      "name": "kunal",
+      "email": "kunal@gail.com",
+      "experience": "5"
+    },
+    {
+      "name": "Tasha Young",
+      "email": "tasha@gmail.com",
+      "experience": "5",
+      "course_id": "2",
+      "id": 3
+    },
+    {
+      "name": "Kelsie Bowman",
+      "email": "wuti@mailinator.com",
+      "experience": "6 years",
+      "course_id": "2",
+      "id": 4
+    },
+    {
+      "name": "Zephania Terrell",
+      "email": "rihiwi@mailinator.com",
+      "experience": "Minima debitis nisi ",
+      "course_id": "3",
+      "id": 5
+    },
+    {
+      "name": "Wang Morse",
+      "email": "viwa@mailinator.com",
+      "experience": "Quidem voluptatem re",
+      "course_id": "1",
+      "id": 6
+    },
+    {
+      "name": "Uma Rosario",
+      "email": "kizykucevu@mailinator.com",
+      "experience": "Aut voluptatem commo",
+      "course_id": "4",
+      "id": 7
+    }
+  ]
+}
